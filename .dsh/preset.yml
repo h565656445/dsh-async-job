@@ -1,0 +1,3 @@
+name: Hermes 异步任务协议
+description: Hermes 异步任务协议：Prepare/Submit/Observe/Reconcile/Inspect 五阶段生命周期。Hermes async job protocol: five-phase Prepare/Submit/Observe/Reconcile/Inspect lifecycle.
+order: 10
